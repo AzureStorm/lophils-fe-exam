@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AzureStorm/lophils-fe-exam/static/css/main.53bcab0a.css",
+    "main.js": "/AzureStorm/lophils-fe-exam/static/js/main.0e909ff1.js",
+    "index.html": "/AzureStorm/lophils-fe-exam/index.html",
+    "main.53bcab0a.css.map": "/AzureStorm/lophils-fe-exam/static/css/main.53bcab0a.css.map",
+    "main.0e909ff1.js.map": "/AzureStorm/lophils-fe-exam/static/js/main.0e909ff1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53bcab0a.css",
+    "static/js/main.0e909ff1.js"
+  ]
+}
